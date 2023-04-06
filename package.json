@@ -1,0 +1,22 @@
+{
+  "name": "github-test-branch-protection-rules",
+  "version": "1.0.0",
+  "description": "[REPO TO BE DELETED] Quick test of branch protection rules to prevent accidental merges for PRs opened to wordpress-develop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WordPress/github-test-branch-protection-rules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WordPress/github-test-branch-protection-rules/issues"
+  },
+  "homepage": "https://github.com/WordPress/github-test-branch-protection-rules#readme",
+  "devDependencies": {
+    "eslint": "^8.37.0"
+  }
+}
